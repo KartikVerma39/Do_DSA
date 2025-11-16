@@ -14,4 +14,4 @@ int main(){
         mini = min(mini , arr[i]);
     }
     cout<<profit;
-} 
+}   
