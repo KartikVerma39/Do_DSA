@@ -8,7 +8,7 @@ int main(){
     vector<int>arr = {5,4,-1,2};
     int prefix = 1;
     int suffix = 1;
-    int n = arr.size();
+    int n = arr.size(); 
     int product = INT16_MIN;
     for(int i = 0 ; i < arr.size() ; i++){
         if(prefix == 0){
