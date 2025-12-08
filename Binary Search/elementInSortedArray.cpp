@@ -9,7 +9,7 @@ int main(){
     int n = arr.size();
     int low = 0; 
     int high = n - 1;
-    int target = 5;
+    int target = 5; 
     while(low <= high){
         int mid = low + (high - low)/2;
         if(arr[mid] == target){
