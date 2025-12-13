@@ -1,7 +1,7 @@
 // 1283. Find the Smallest Divisor Given a Threshold
 
 
-#include<iostream>
+#include<iostream> 
 #include<vector>
 #include<cmath>
 using namespace std;
