@@ -22,4 +22,4 @@ int main(){
     }
     cout<<low + k;
     return 0;
-}
+} 
