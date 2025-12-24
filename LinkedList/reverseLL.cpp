@@ -18,3 +18,22 @@
 //     }
 //     return prev;
 // }
+
+
+
+
+
+// Recursion Approach
+
+
+// Node* reverseLL(Node* head){
+//     if(head == NULL || head->next == NULL){
+//         return head;
+//     }
+
+//     Node* newNode = reverseLL(head->next);
+//     Node* front = head->next;
+//     front->next = head;
+//     head->next = NULL;
+//     return newNode;
+// }
