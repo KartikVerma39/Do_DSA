@@ -14,7 +14,7 @@
 //         count++;
 //     }
 
-//     k = k%count;
+//     k = k%count; 
 //     int steps = count - k;
 //     Node* curr = head;
 //     for(int i = 0 ; i < steps ; i++){
